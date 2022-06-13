@@ -1,0 +1,8 @@
+Project Ideas
+
+1. Add/update foundations capstone (habit/goal tracker)
+2. E-commerce site: sell items specific to a topic (ex. apparel, display items like posters or figurines or fake props, etc.)
+    - learn how to use Stripe
+3. Time-clock app
+4. Clone site (Netflix?)
+5. Use National Park free API to create app to serch for parks/rec areas/camping areas, can favorite?, can purchase required permits?
